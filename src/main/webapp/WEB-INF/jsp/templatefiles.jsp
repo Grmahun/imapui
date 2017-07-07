@@ -39,7 +39,7 @@
       <h2 class="title">Download excel screen</h2>
       <div class="content">
 	  <table  cellpadding="0"  width="70%" border="1" align="center" BORDERCOLOR=#ccffff>
-					<th> Name </th>
+					<th> Name Test</th>
 					<th> Description</th>
 					<th>Action</th>
 					
