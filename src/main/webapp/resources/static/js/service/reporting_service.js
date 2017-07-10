@@ -2,7 +2,7 @@
 
 angular.module('myApp').factory('ReportingService', ['$http', '$q', function($http, $q){
 
-    var REST_SERVICE_URI = 'http://localhost/imapservices/api/';
+    var REST_SERVICE_URI = 'http://ec2-34-208-54-139.us-west-2.compute.amazonaws.com/imapservices/api/';
 
     var factory = {
     		dataAnalysisOptions: dataAnalysisOptions        
